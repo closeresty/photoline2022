@@ -43,4 +43,3 @@ Get latest code at https://github.com/ndeet/unzipper
 ## Credits   
 [See contributors on Github](https://github.com/ndeet/unzipper/graphs/contributors)  
 # photoline2022
-# photoline2022
